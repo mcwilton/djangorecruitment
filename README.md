@@ -1,1 +1,2 @@
-# djangorecruitment
+# recruitmentapp
+BCM Jobs App
